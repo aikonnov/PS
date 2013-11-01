@@ -1,1 +1,8 @@
 web2py/applications/PictureShop/web2py_app.sublime-workspace
+cache/
+databases/
+errors/
+sessions/
+*~
+*.bak
+*.pyc
