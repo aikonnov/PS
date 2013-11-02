@@ -9,3 +9,4 @@ sessions/
 *.log
 web2py/parameters_8000.py
 web2py/httpserver.pid
+web2py/parameters_8001.py

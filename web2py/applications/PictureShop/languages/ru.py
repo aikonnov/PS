@@ -117,6 +117,7 @@
 'Lost password?': 'Lost password?',
 'Manage Cache': 'Manage Cache',
 'Menu Model': 'Menu Model',
+'Messages With 300 Chars': 'Messages With 300 Chars',
 'Modified By': 'Modified By',
 'Modified On': 'Modified On',
 'My Sites': 'My Sites',
