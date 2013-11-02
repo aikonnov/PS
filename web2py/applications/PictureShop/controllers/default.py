@@ -73,3 +73,13 @@ def data():
       LOAD('default','data.load',args='tables',ajax=True,user_signature=True)
     """
     return dict(form=crud())
+
+def upload_picture():
+    """Create form to load picture"""
+    form = crud.create(db.picture)
+    return dict(form = form)
+
+def entry_post():
+    """returns a form where the can entry a post"""
+    form = crud.create(db.post)
+    return dict(form = form)

@@ -6,3 +6,6 @@ sessions/
 *~
 *.bak
 *.pyc
+*.log
+web2py/parameters_8000.py
+web2py/httpserver.pid
